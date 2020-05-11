@@ -12,6 +12,8 @@ class Node:
 '''
 
 #RECURSIVE SOLUTION
+#Time complexity: O(log(N)) -Avg / O(N) - Worst
+#Space Complexity: O(N) - recursive stack calls
 def min_difference(root,k):
     # code here
     closest= getClosestNode(root,k,float("inf"))
