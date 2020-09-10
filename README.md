@@ -14,5 +14,7 @@ Daily Progress log and which topic the problems belong to
 ### 🌟 9th September 
 1. Finished *Find Three Largest Numbers* ```Searching(2/6)```
 2. Finished *Find largest sum in Tree from root to any leaf* ```DP``` ```Trees```
+### 🌟 10th September 
+1. Finished *Search in a sorted matrix* ```Searching(3/6)```
 
 
